@@ -10,29 +10,29 @@ I recently completed [SheCodes Basics](https://www.shecodes.io/) and now I'm on 
 - ✍️ Also love creativity, design, and making things feel ✨just right✨
 
 ## 🛠️ Tech I'm Learning
-```html
+
 HTML  •  CSS  •  JavaScript  •  React  •  Git  •  APIs  •  Responsive Design
 
-🔨 Projects I'm Working On
-My portfolio website (yes, you're invited!)
+## 🔨 Projects I'm Working On
+1. My portfolio website (yes, you're invited!)
 
-A clean to-do app (with real-time updates)
+2. A clean to-do app (with real-time updates)
 
-Mobile app experiments using React Native
+3. Mobile app experiments using React Native
 
-Simple fun tools that solve small everyday problems
+4. Simple fun tools that solve small everyday problems
 
-🌱 Currently Growing
-JavaScript confidence (💪)
+## 🌱 Currently Growing
+1. JavaScript confidence (💪)
 
-React components & state
+2. React components & state
 
-Using GitHub like a pro
+3. Using GitHub like a pro
 
-Building a meaningful dev portfolio
+4. Building a meaningful dev portfolio
 
 💬 Let's Connect
 I'm always open to learning, sharing, and helping where I can.
 Feel free to explore my repos and follow along as I grow 🌱
 
-“Start where you are. Use what you have. Do what you can.” — May
+“Start where you are. Use what you have. Do what you can.” — Maya
